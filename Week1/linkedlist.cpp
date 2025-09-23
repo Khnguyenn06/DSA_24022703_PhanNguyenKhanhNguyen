@@ -1,4 +1,4 @@
-/*#include "linkedlist.h"
+#include "linkedlist.h"
 #include <iostream>
 
 LinkedList::LinkedList() {
@@ -111,4 +111,5 @@ void LinkedList::tranverseBackward(Node *node) {
     if(!node) return;
     tranverseBackward(node->next);
     cout << node->data << " ";
-}*/
+}
+
