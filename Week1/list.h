@@ -1,4 +1,4 @@
-/*#ifndef LIST_H_INCLUDED
+#ifndef LIST_H_INCLUDED
 #define LIST_H_INCLUDED
 
 class List {
@@ -23,5 +23,6 @@ public:
     void tranverseBackward();
 };
 
-#endif // LIST_H_INCLUDED*/
+#endif // LIST_H_INCLUDED
+
 
