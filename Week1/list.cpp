@@ -1,4 +1,4 @@
-/*#include "list.h"
+#include "list.h"
 #include <iostream>
 
 using namespace std;
@@ -75,4 +75,5 @@ void List::tranverseBackward() {
         cout << arr[i] << " ";
     }
     cout << endl;
-}*/
+}
+
