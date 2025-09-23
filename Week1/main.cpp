@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include "list.h"
 #include "linkedlist.h"
 
@@ -40,3 +40,4 @@ int main()
 
     return 0;
 }
+
