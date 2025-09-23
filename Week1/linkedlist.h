@@ -1,4 +1,4 @@
-/*#ifndef LINKEDLIST_H_INCLUDED
+#ifndef LINKEDLIST_H_INCLUDED
 #define LINKEDLIST_H_INCLUDED
 
 #include <iostream>
@@ -35,4 +35,5 @@ public:
     void tranverseBackward(Node *node);
 };
 
-#endif // LINKEDLIST_H_INCLUDED*/
+#endif // LINKEDLIST_H_INCLUDED
+
