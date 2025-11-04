@@ -28,7 +28,6 @@ public:
             }
         }
 
-        // 2️⃣ Nếu chưa có → thêm mới vào cuối mảng
         if (count < 100) {
             table[count].key = key;
             table[count].value = value;
@@ -74,3 +73,4 @@ public:
         return count;
     }
 };
+
